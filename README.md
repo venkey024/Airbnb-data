@@ -1,4 +1,4 @@
-# Airbnb-data
+![image](https://github.com/user-attachments/assets/6df18691-8ff1-4444-8b5f-a87ce2c40c12)# Airbnb-data
 
 ## The Problem Statement :- 
 
@@ -72,6 +72,49 @@ Used the cleaned data to analyzed and visualized how prices vary across differen
 #### Availability Analysis by Season: 
 
 Analyzed the availability of Airbnb listings based on seasonal variations. Visualized the occupancy rates, booking patterns, and demand fluctuations throughout the year using line charts, bar graphs and donut charts
+
+
+
+
+![image](https://github.com/user-attachments/assets/427bb07b-1184-4072-8755-56c37efbae2e)
+
+
+
+
+![image](https://github.com/user-attachments/assets/b045f08a-f67e-4a29-8e80-0157f863d581)
+
+
+
+![image](https://github.com/user-attachments/assets/2950f134-34f7-438e-9966-506e4a4ab074)
+
+
+![image](https://github.com/user-attachments/assets/ea7764ab-117b-4262-a4cb-224abce34281)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
