@@ -144,7 +144,7 @@ Description: This geographical visualization map displays the average property p
 ### 📊 Dashboard Overview
 This dashboard includes a powerful drill-through mechanism to provide detailed insights into various property data.
 
-#### Drill-Through Feature:Sum of People by Property Type
+* Drill-Through Feature : Sum of People by Property Type
 Description: This feature allows users to explore the total number of people (guests) accommodated by different property types. By using the drill-through mechanism, users can click on a specific property type to view more detailed information, such as the average price, cancellation policies, or seasonal trends related to that property type.
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/212340ea-96ce-4f59-8477-9067a6d640c5)
@@ -153,7 +153,7 @@ This dashboard provides a comprehensive view of various property data to help us
 
 Overall Information About Rooms
 Type: Table Chart
-Description: This table chart provides detailed information about rooms across different properties. It includes key metrics such as the number of bedrooms, bathrooms, beds, and accommodates for each property type. The table format allows for easy comparison and filtering of data, enabling users to quickly identify properties that meet specific criteria.
+Description : This table chart provides detailed information about rooms across different properties. It includes key metrics such as the number of bedrooms, bathrooms, beds, and accommodates for each property type. The table format allows for easy comparison and filtering of data, enabling users to quickly identify properties that meet specific criteria.
 
 
 
